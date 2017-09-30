@@ -1,0 +1,26 @@
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags
+
+# Vivado
+.apc
+.cproject
+.project
+.settings
+*.jou
+*.log
+.vivado_hls_log.xml
+.autopilot
+Debug
+Launch
